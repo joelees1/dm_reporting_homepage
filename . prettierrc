@@ -1,0 +1,8 @@
+{
+	"trailingComma": "none",
+	"overrides": [
+		{
+			"tabWidth": 4
+		}
+	]
+}
